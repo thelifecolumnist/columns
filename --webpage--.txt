@@ -1,0 +1,14 @@
+--webpage--
+
+\home
+  \new content
+  \updates
+  \about
+\personal blogs
+  \all the bloglinks
+\short stories
+  \all the storieslinks
+
+if possible
+\fun games
+  \one or two games
